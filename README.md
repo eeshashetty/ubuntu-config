@@ -5,6 +5,7 @@ Backup Config for my Ubuntu cause i keep on reinstalling it
 ### 1. Clone Repo
 `sudo apt install git-all`<br>
 `git clone https://github.com/eeshashetty/ubuntu-config.git`<br>
+`cd ubuntu-config`
 
 ### 2. Run file
 `chmod +x backup.sh`<br>
